@@ -13,7 +13,7 @@ export default function Navbar() {
         <div className="navbar">
           <div className="logo">
     
-            <a href='https://x.com/0xXnow'>
+            <a href='https://x.com/zaidkamado'>
           <button className="logo flex items-center group">
             <Image className=' rotate-90'
             src="/vercel.svg"
@@ -42,7 +42,7 @@ export default function Navbar() {
         >
           <ul className="nav-links">
             <li className="nav-item">
-              <Link href="https://x.com/0xXnow" onClick={() => {setnavOpen(!navOpen)}}
+              <Link href="https://x.com/zaidkamado" onClick={() => {setnavOpen(!navOpen)}}
               style={{
                 top: navOpen ? "0" : "120px",
                 transitionDelay: navOpen ? "0.8s" : "0s",
@@ -54,7 +54,7 @@ export default function Navbar() {
               <div className="nav-item-wrapper"></div>
             </li>
             <li className="nav-item">
-              <Link href="https://x.com/0xXnow" onClick={() => {setnavOpen(!navOpen)}}
+              <Link href="https://x.com/zaidkamado" onClick={() => {setnavOpen(!navOpen)}}
 
 style={{
   top: navOpen ? "0" : "120px",
@@ -66,7 +66,7 @@ style={{
               <div className="nav-item-wrapper"></div>
             </li>
             <li className="nav-item">
-              <Link href="https://x.com/0xXnow" onClick={() => {setnavOpen(!navOpen)}}
+              <Link href="https://x.com/zaidkamado" onClick={() => {setnavOpen(!navOpen)}}
               style={{
                 top: navOpen ? "0" : "120px",
                 transitionDelay: navOpen ? "1s" : "0s",
@@ -74,7 +74,7 @@ style={{
               <div className="nav-item-wrapper"></div>
             </li>
             <li className="nav-item">
-              <Link href="https://x.com/0xXnow" onClick={() => {setnavOpen(!navOpen)}}
+              <Link href="https://x.com/zaidkamado" onClick={() => {setnavOpen(!navOpen)}}
               style={{
                 top: navOpen ? "0" : "120px",
                 transitionDelay: navOpen ? "1.1s" : "0s",
@@ -91,7 +91,7 @@ style={{
               <span>Dubai.0x</span>
             </div>
             <div className="nav-social-media">
-              <a href='https://x.com/0xXnow' style={{
+              <a href='https://x.com/zaidkamado' style={{
               bottom: navOpen ? "0" : "-20px",
               opacity: navOpen ? "1" : "0",
               transitionDelay: navOpen ? "1.3s" : "0s",

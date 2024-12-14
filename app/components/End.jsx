@@ -28,7 +28,7 @@ export default function End() {
 
       </div>
       <div className="bg font-semibold font-poppins w-3/4 md:w-1/2 text-center mt-6">"Those who are wise do not seek happiness in external and material objects, as they know that all such joys are fleeting and lead to suffering"  <span className='text-purple-400'>~ Bhagavad Gita Chapter 5 Verse 21</span></div>
-      <a href='https://x.com/0xXnow'>
+      <a href='https://x.com/zaidkamado'>
         <button className='bg-white font-poppins my-8 text-black px-8 py-3 rounded-md font-bold  hover:bg-cyan-400 hover:text-white transition-all duration-500 hover:translate-x-1 hover:translate-y-1'>
           Learn More
         </button>

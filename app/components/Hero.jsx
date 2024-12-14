@@ -13,7 +13,7 @@ function Hero() {
       </div>
       <div className="cta w-[290px] sm:w-[400px] max-md:flex flex-col items-center md:w-[500px] mt-3 sm:mt-8 ml-2">
         <div className="font-semibold font-poppins  sm:text-base max-lg:text-center text-slate-300 mb-4">Investing on your self and getting exposed to the information that being hidden to average humans is the way to win, and Win BIG!</div>
-        <a href='https://x.com/0xXnow'>
+        <a href='https://x.com/zaidkamado'>
         <button className='bg-white font-poppins text-black px-8 py-3 rounded-md font-bold  hover:bg-cyan-400 hover:text-white transition-all duration-500 hover:translate-x-1 hover:translate-y-1'>
           Learn More
         </button>
