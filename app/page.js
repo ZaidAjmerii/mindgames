@@ -28,7 +28,7 @@ export default function Home() {
     <Quotes />
     <End />
 
-    <Image className="flex absolute right-56 bottom-0 -z-10"
+    <Image className="flex absolute lg: lg:right-56 bottom-0 -z-10"
     
       unoptimized
       src="/points.gif"
